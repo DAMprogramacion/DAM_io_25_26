@@ -1,0 +1,6 @@
+linea 1: Texto a escribir en fichero y una ñ
+linea 2: nueva línea
+linea 3: y otra línea, que es la tercera
+fecha: 21/4/2026
+leido: 82 bytes
+leido: 3 lineas

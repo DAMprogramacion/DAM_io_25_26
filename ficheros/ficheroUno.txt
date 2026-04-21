@@ -1,2 +1,3 @@
 Texto a escribir en fichero y una ñ
 nueva línea
+y otra línea, que es la tercera
