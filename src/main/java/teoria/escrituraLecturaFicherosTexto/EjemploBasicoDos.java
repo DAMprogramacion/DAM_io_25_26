@@ -1,3 +1,5 @@
+//leyendo texto de un fichero texto con Scanner
+//escribiendo texto en un fichero usando Files.writeString
 //escribimos en un fichero llamado ficheroUnoAnalizado.txt
 //la salida sería:
 //linea 1: Texto a escribir en fichero y una ñ
@@ -6,10 +8,8 @@
 //leido 49 bytes
 //leido 2 líneas
 
-package teoria.escrituraFicherosTexto;
+package teoria.escrituraLecturaFicherosTexto;
 
-import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;

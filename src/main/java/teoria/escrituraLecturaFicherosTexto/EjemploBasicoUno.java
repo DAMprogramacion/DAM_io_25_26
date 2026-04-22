@@ -1,4 +1,5 @@
-package teoria.escrituraFicherosTexto;
+//escribiendo texto en un fichero usando Files.writeString
+package teoria.escrituraLecturaFicherosTexto;
 
 import java.io.IOException;
 import java.nio.file.Files;
